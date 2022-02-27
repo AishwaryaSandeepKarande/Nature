@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Nature Gift Cafe\Nature Gift Cafe\bin\Debug\netcoreapp3.1\Nature Gift Cafe.exe
+C:\Users\Admin\source\repos\Nature Gift Cafe\Nature Gift Cafe\bin\Debug\netcoreapp3.1\Nature Gift Cafe.deps.json
+C:\Users\Admin\source\repos\Nature Gift Cafe\Nature Gift Cafe\bin\Debug\netcoreapp3.1\Nature Gift Cafe.runtimeconfig.json
+C:\Users\Admin\source\repos\Nature Gift Cafe\Nature Gift Cafe\bin\Debug\netcoreapp3.1\Nature Gift Cafe.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Nature Gift Cafe\Nature Gift Cafe\bin\Debug\netcoreapp3.1\Nature Gift Cafe.dll
+C:\Users\Admin\source\repos\Nature Gift Cafe\Nature Gift Cafe\bin\Debug\netcoreapp3.1\Nature Gift Cafe.pdb
+C:\Users\Admin\source\repos\Nature Gift Cafe\Nature Gift Cafe\obj\Debug\netcoreapp3.1\Nature Gift Cafe.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Nature Gift Cafe\Nature Gift Cafe\obj\Debug\netcoreapp3.1\Nature_Gift_Cafe.Form1.resources
+C:\Users\Admin\source\repos\Nature Gift Cafe\Nature Gift Cafe\obj\Debug\netcoreapp3.1\Nature Gift Cafe.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Nature Gift Cafe\Nature Gift Cafe\obj\Debug\netcoreapp3.1\Nature Gift Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Nature Gift Cafe\Nature Gift Cafe\obj\Debug\netcoreapp3.1\Nature Gift Cafe.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Nature Gift Cafe\Nature Gift Cafe\obj\Debug\netcoreapp3.1\Nature Gift Cafe.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Nature Gift Cafe\Nature Gift Cafe\obj\Debug\netcoreapp3.1\Nature Gift Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Nature Gift Cafe\Nature Gift Cafe\obj\Debug\netcoreapp3.1\Nature Gift Cafe.dll
+C:\Users\Admin\source\repos\Nature Gift Cafe\Nature Gift Cafe\obj\Debug\netcoreapp3.1\Nature Gift Cafe.pdb
+C:\Users\Admin\source\repos\Nature Gift Cafe\Nature Gift Cafe\obj\Debug\netcoreapp3.1\Nature Gift Cafe.genruntimeconfig.cache
